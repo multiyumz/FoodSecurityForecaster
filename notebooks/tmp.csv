@@ -1,0 +1,46 @@
+system:index,ENGTYPE_2,NL_NAME_2,HASC_2,NL_NAME_1,CC_2,NAME_2,NAME_1,TYPE_2,COUNTRY,GID_0,GID_1,GID_2,VARNAME_2
+0,District,NA,NA,NA,NA,Bahr al Jabal,Central Equatoria,District,South Sudan,SSD,SSD.1_1,SSD.1.1_1,NA
+1,District,NA,NA,NA,NA,Kajo Kaii,Central Equatoria,District,South Sudan,SSD,SSD.1_1,SSD.1.2_1,NA
+2,District,NA,NA,NA,NA,Nahr Yei,Central Equatoria,District,South Sudan,SSD,SSD.1_1,SSD.1.3_1,NA
+3,District,NA,NA,NA,NA,Terkaka,Central Equatoria,District,South Sudan,SSD,SSD.1_1,SSD.1.4_1,NA
+4,District,NA,NA,NA,NA,Amatonge,Eastern Equatoria,District,South Sudan,SSD,SSD.2_1,SSD.2.1_1,NA
+5,District,NA,NA,NA,NA,Kapoeta,Eastern Equatoria,District,South Sudan,SSD,SSD.2_1,SSD.2.2_1,NA
+6,District,NA,NA,NA,NA,Magwi,Eastern Equatoria,District,South Sudan,SSD,SSD.2_1,SSD.2.3_1,NA
+7,District,NA,NA,NA,NA,Shokodom,Eastern Equatoria,District,South Sudan,SSD,SSD.2_1,SSD.2.4_1,NA
+8,District,NA,NA,NA,NA,Akobo,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.1_1,NA
+9,District,NA,NA,NA,NA,Ayod,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.2_1,NA
+10,District,NA,NA,NA,NA,Bor,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.3_1,NA
+11,District,NA,NA,NA,NA,Fam al Zaraf,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.4_1,NA
+12,District,NA,NA,NA,NA,Nahr Atiem,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.5_1,NA
+13,District,NA,NA,NA,NA,Pibor,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.6_1,NA
+14,District,NA,NA,NA,NA,Wat,Jungoli,District,South Sudan,SSD,SSD.3_1,SSD.3.7_1,NA
+15,District,NA,NA,NA,NA,Aliab,Lakes,District,South Sudan,SSD,SSD.4_1,SSD.4.1_1,NA
+16,District,NA,NA,NA,NA,Rumbek,Lakes,District,South Sudan,SSD,SSD.4_1,SSD.4.2_1,NA
+17,District,NA,NA,NA,NA,Shobet,Lakes,District,South Sudan,SSD,SSD.4_1,SSD.4.3_1,NA
+18,District,NA,NA,NA,NA,Yerol,Lakes,District,South Sudan,SSD,SSD.4_1,SSD.4.4_1,NA
+19,District,NA,NA,NA,NA,Aryat,North Bahr-al-Ghazal,District,South Sudan,SSD,SSD.5_1,SSD.5.1_1,NA
+20,District,NA,NA,NA,NA,Aweil,North Bahr-al-Ghazal,District,South Sudan,SSD,SSD.5_1,SSD.5.2_1,NA
+21,District,NA,NA,NA,NA,Nahr Lol,North Bahr-al-Ghazal,District,South Sudan,SSD,SSD.5_1,SSD.5.3_1,NA
+22,District,NA,NA,NA,NA,Wanjuk,North Bahr-al-Ghazal,District,South Sudan,SSD,SSD.5_1,SSD.5.4_1,NA
+23,District,NA,NA,NA,NA,Al Leiri,Unity,District,South Sudan,SSD,SSD.6_1,SSD.6.1_1,NA
+24,District,NA,NA,NA,NA,Al Mayom,Unity,District,South Sudan,SSD,SSD.6_1,SSD.6.2_1,NA
+25,District,NA,NA,NA,NA,Faring,Unity,District,South Sudan,SSD,SSD.6_1,SSD.6.3_1,NA
+26,District,NA,NA,NA,NA,Rabkona,Unity,District,South Sudan,SSD,SSD.6_1,SSD.6.4_1,NA
+27,District,NA,NA,NA,NA,Al Mabien,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.1_1,NA
+28,District,NA,NA,NA,NA,Al Renk,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.2_1,NA
+29,District,NA,NA,NA,NA,Baleit,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.3_1,NA
+30,District,NA,NA,NA,NA,Fashooda,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.4_1,NA
+31,District,NA,NA,NA,NA,Malut,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.5_1,NA
+32,District,NA,NA,NA,NA,Mayot,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.6_1,NA
+33,District,NA,NA,NA,NA,Sobat,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.7_1,NA
+34,District,NA,NA,NA,NA,Tonga,Upper Nile,District,South Sudan,SSD,SSD.7_1,SSD.7.8_1,NA
+35,District,NA,NA,NA,NA,Gogrial,Warap,District,South Sudan,SSD,SSD.8_1,SSD.8.1_1,NA
+36,District,NA,NA,NA,NA,Malek,Warap,District,South Sudan,SSD,SSD.8_1,SSD.8.2_1,NA
+37,District,NA,NA,NA,NA,Tonj,Warap,District,South Sudan,SSD,SSD.8_1,SSD.8.3_1,NA
+38,District,NA,NA,NA,NA,Warab,Warap,District,South Sudan,SSD,SSD.8_1,SSD.8.4_1,NA
+39,District,NA,NA,NA,NA,Raja,West Bahr-al-Ghazal,District,South Sudan,SSD,SSD.9_1,SSD.9.1_1,NA
+40,District,NA,NA,NA,NA,Wau,West Bahr-al-Ghazal,District,South Sudan,SSD,SSD.9_1,SSD.9.2_1,NA
+41,District,NA,NA,NA,NA,Meridi,West Equatoria,District,South Sudan,SSD,SSD.10_1,SSD.10.1_1,NA
+42,District,NA,NA,NA,NA,Mundri,West Equatoria,District,South Sudan,SSD,SSD.10_1,SSD.10.2_1,NA
+43,District,NA,NA,NA,NA,Tombura,West Equatoria,District,South Sudan,SSD,SSD.10_1,SSD.10.3_1,NA
+44,District,NA,NA,NA,NA,Yambio,West Equatoria,District,South Sudan,SSD,SSD.10_1,SSD.10.4_1,NA
