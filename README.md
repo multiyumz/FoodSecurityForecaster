@@ -30,6 +30,7 @@ The aim of this project was to
 
 * Satellite data for Vegetation Index (NDVI)
   - periodic past maps (X) of different wavelengths of the electromagnetic spectrum
+  
 * Annual crop yeild
   - Options to choose the average crop yeild of the USA and India or state at a more granular level
   - Line of best fit can be used in the app to predict crop yeild in future years
